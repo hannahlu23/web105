@@ -128,16 +128,16 @@ ul li{
 }
 
 .buttons{
-    background: blue;
+    background: purple;
     padding: 5px 10px;
     margin: 15px;
-    border: 2px solid blue;
+    border: 2px solid purple;
     color: white;
 }
 
 .buttons:hover{
     background: white;
-    color: blue;
+    color: purple;
 }
 
 .buttons a:visited{
